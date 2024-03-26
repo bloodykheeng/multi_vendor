@@ -121,4 +121,4 @@ plugins: [],
 ```
 
 > any doubt please contact me!
-> asfakahmed680@gmail.com
+> bloodykheeng@gmail.com

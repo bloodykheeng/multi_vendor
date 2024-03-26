@@ -100,7 +100,9 @@ npx tailwindcss init -p
 > export default {
 > content: [
 > "./index.html",
+
     "./src/**/*.{js,ts,jsx,tsx}",
+
 ],
 theme: {
 extend: {},
@@ -119,4 +121,4 @@ plugins: [],
 ```
 
 > any doubt please contact me!
-> asfakahmed680@gmail.com
+> bloodykheeng@gmail.com
